@@ -17,15 +17,14 @@ It’s your **AI-powered co-pilot for DevOps**.
 
 ## 🔧 Tech Stack
 
-| Tool                          | Purpose                                                                   |
-| ----------------------------- | ------------------------------------------------------------------------- |
-| **n8n**                       | Workflow automation engine                                                |
-| **GitHub**                    | Trigger: listens for `push` events                                        |
-| **Trello**                    | AI-powered task management (Atlassian Intelligence auto-summarizes cards) |
-| **Telegram**                  | Real-time alerts + interactive buttons (✅ Approve / ❌ Reject)           |
-| **OpenAI**                    | Detects risky commits (e.g., `rm -rf`, secrets)                           |
-| **Google Sheets**             | Logs all activity for analytics and audit trails                          |
-| **GitHub Actions (optional)** | Auto-backup workflow `.json` to Gist                                      |
+| Tool              | Purpose                                                                   |
+| ----------------- | ------------------------------------------------------------------------- |
+| **n8n**           | Workflow automation engine                                                |
+| **GitHub**        | Trigger: listens for `push` events                                        |
+| **Trello**        | AI-powered task management (Atlassian Intelligence auto-summarizes cards) |
+| **Telegram**      | Real-time alerts + interactive buttons (✅ Approve / ❌ Reject)           |
+| **OpenAI**        | Detects risky commits (e.g., `rm -rf`, secrets)                           |
+| **Google Sheets** | Logs all activity for analytics and audit trails                          |
 
 ---
 
