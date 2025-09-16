@@ -9,7 +9,6 @@
 ## 💡 What Is DevMind?
 
 **DevMind** is an intelligent automation system that turns code pushes into structured, trackable, and collaborative actions — transforming chaotic commits into organized, team-aligned development workflows.
-
 It’s not just a bot.  
 It’s your **AI-powered co-pilot for DevOps**.
 
